@@ -1,4 +1,4 @@
-Python & SQL (Jupyter Notebook/Colab):
+# Python & SQL (Jupyter Notebook/Colab):
 
 •	Utilized a csv file for Deaths in Custody analysis of independent and dependent variables in the dataset using pandas and numpy.
 
